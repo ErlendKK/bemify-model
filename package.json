@@ -1,0 +1,12 @@
+{
+  "name": "bemify-model",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "python python.py",
+    "push": "git add . && git commit -m \"Updated model\" && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

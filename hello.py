@@ -1,4 +1,4 @@
-# api/hello-endpoint.py
+# api/hello.py
 from http.server import BaseHTTPRequestHandler
 import json
 from datetime import datetime
